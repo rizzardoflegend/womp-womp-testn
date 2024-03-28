@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dcer6ex00venk"
-path="res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex"
+uid="uid://bbi682jah3lw7"
+path="res://.godot/imported/frame0004.png-92f9719528ed084191dd64ccec0ab95b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://docs/index.png"
-dest_files=["res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex"]
+source_file="res://assets/atomatrons/nitrogen/blink/left/frame0004.png"
+dest_files=["res://.godot/imported/frame0004.png-92f9719528ed084191dd64ccec0ab95b.ctex"]
 
 [params]
 
